@@ -22,6 +22,7 @@
    ![folder](https://github.com/Atom244/icons-for-projects/blob/b97ddb9c38ac522f5442eb548a814df260a69830/image%204.png)
 8. Программа примет значения, затем она попросит порт сервера
 9. Запускаем Minecraft, открываем мир для сети и порт, выданный игрой, записываем в строку с вводом порта
+   
    ![game](https://github.com/Atom244/icons-for-projects/blob/b97ddb9c38ac522f5442eb548a814df260a69830/image%205.png)
-10. Сервер запустится, адрес сервера подчёркнут, по нему игроки могут зайти в мир
+11. Сервер запустится, адрес сервера подчёркнут, по нему игроки могут зайти в мир
     ![server](https://github.com/Atom244/icons-for-projects/blob/b97ddb9c38ac522f5442eb548a814df260a69830/image%206.jpg)
